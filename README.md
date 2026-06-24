@@ -6,7 +6,7 @@ This project aims to identify hidden cardiometabolic phenotypes in U.S. adults u
 The goal is to discover early patterns of cardiometabolic deterioration that may be associated with future heart failure risk, particularly Heart Failure with Preserved Ejection Fraction (HFpEF).
 
 ## Research Question
-Can machine learning identify hidden cardiometabolic phenotypes associated with early heart failure risk in U.S. adults?
+Can unsupervised machine learning identify sex-specific cardiometabolic phenotypes in U.S. adults that may represent early pathways toward Heart Failure with Preserved Ejection Fraction (HFpEF)?
 
 ## Objectives
 - Identify latent cardiometabolic phenotypes using unsupervised machine learning.
