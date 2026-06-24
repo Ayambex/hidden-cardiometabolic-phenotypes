@@ -11,3 +11,9 @@ Most existing work focuses on individuals with diagnosed heart failure or on bro
 
 ## Proposed Contribution
 This project will use NHANES data to identify latent cardiometabolic phenotypes among U.S. adults and characterize patterns that may indicate early risk pathways toward HFpEF, using clustering, network analysis, and explainable machine learning.
+
+## Future Directions
+
+1. Investigate whether phenotypes differ by sex.
+2. Develop a model to identify individuals belonging to high-risk phenotypes.
+3. Explore whether certain phenotypes may represent early pathways toward HFpEF.
