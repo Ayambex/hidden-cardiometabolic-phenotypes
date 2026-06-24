@@ -26,9 +26,10 @@ Can machine learning identify hidden cardiometabolic phenotypes associated with 
 - Explainable AI (XAI)
 
 ## Technology Stack
+-SQL Server
+- T-SQL
+- SSMS
 - Python
-- SQL
-- PostgreSQL
 - Pandas
 - Scikit-learn
 - SHAP
