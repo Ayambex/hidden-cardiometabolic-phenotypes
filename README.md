@@ -1,18 +1,22 @@
-# Hidden Cardiometabolic Phenotypes and Early Heart Failure Risk
+# Identification of Sex-Specific Cardiometabolic Phenotypes Associated With Early HFpEF Pathways Using Explainable Machine Learning
 
 ## Overview
-This project aims to identify hidden cardiometabolic phenotypes in U.S. adults using data from the National Health and Nutrition Examination Survey (NHANES).
+This project aims to identify sex-specific hidden cardiometabolic phenotypes in U.S. adults using data from the National Health and Nutrition Examination Survey (NHANES).
+The goal is to discover early patterns of cardiometabolic deterioration that may be associated with pathways toward Heart Failure with Preserved Ejection Fraction (HFpEF), with a particular focus on understanding how these pathways may differ between men and women.
+By combining unsupervised machine learning and explainable artificial intelligence (XAI), this study seeks to uncover clinically meaningful phenotypes that may support earlier risk identification and precision prevention strategies for HFpEF.
 
-The goal is to discover early patterns of cardiometabolic deterioration that may be associated with future heart failure risk, particularly Heart Failure with Preserved Ejection Fraction (HFpEF).
+## Why This Matters
+HFpEF is one of the fastest-growing forms of heart failure and disproportionately affects women. Despite advances in cardiometabolic research, little is known about whether hidden sex-specific phenotypes exist before overt heart failure develops.
+Identifying these early phenotypes may improve our understanding of preclinical HFpEF pathways and support the development of targeted prevention strategies.
 
 ## Research Question
-Can unsupervised machine learning identify sex-specific cardiometabolic phenotypes in U.S. adults that may represent early pathways toward Heart Failure with Preserved Ejection Fraction (HFpEF)?
+Can unsupervised machine learning identify sex-specific cardiometabolic phenotypes in U.S. adults that are associated with early pathways toward Heart Failure with Preserved Ejection Fraction (HFpEF)?
 
 ## Objectives
-- Identify latent cardiometabolic phenotypes using unsupervised machine learning.
-- Characterize phenotypes using demographic, clinical, and lifestyle factors.
-- Investigate which phenotypes exhibit features associated with early cardiometabolic deterioration.
-- Explore implications for early risk identification and precision medicine.
+1. Identify latent cardiometabolic phenotypes among U.S. adults using unsupervised machine learning.
+2. Determine whether these phenotypes differ between men and women.
+3. Characterize phenotypes exhibiting features associated with early pathways toward HFpEF.
+4. Identify the key variables driving these phenotypes using explainable AI techniques.
 
 ## Dataset
 - National Health and Nutrition Examination Survey (NHANES)
